@@ -1,4 +1,4 @@
-# TDP 004 - Objektorienterad Programmering
+# TDP 004 - Object Oriented Programming
 
 ### Compile 
 
