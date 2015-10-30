@@ -11,3 +11,14 @@ This will compile the source with g++
 ./hello_world
 ```
 And then you can run it with this command. 
+
+
+### Alternative compile
+Compile with:
+```bash
+g++ hello_world.cpp
+```
+This will generate the file:
+```bash
+./a.out
+```
